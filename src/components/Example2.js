@@ -1,9 +1,11 @@
 import React from 'react';
+import CSSModules from 'react-css-modules';
+import styles from './Example2.scss';
 
 const Example2 = () => {
   return (
-    <div>Another Example Component</div>
+    <div styleName="test">Another Example Component with CSS Modules</div>
   );
 }
 
-export default Example2;
+export default CSSModules(Example2, styles);
