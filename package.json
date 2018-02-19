@@ -1,7 +1,7 @@
 {
-  "name": "node-react-template",
+  "name": "node-react-boilerplate",
   "version": "1.0.0",
-  "description": "Simple starter template for React with Node that can easily be deployed to Heroku",
+  "description": "Simple starter boilerplate for React with Node that can easily be deployed to Heroku",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

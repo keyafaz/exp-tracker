@@ -1,6 +1,6 @@
-# node-react-template
+# node-react-boilerplate
 
-Node and React template for easy deployment to Heroku
+Node and React boilerplate for easy deployment to Heroku
 
 ### Bolierplate Includes
 
