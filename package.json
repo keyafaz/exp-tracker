@@ -1,13 +1,14 @@
 {
   "name": "node-react-template",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple starter template for React with Node that can easily be deployed to Heroku",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "webpack": "webpack --watch"
   },
-  "author": "",
+  "author": "Jeff Tabachnick",
   "license": "ISC",
   "dependencies": {
     "babel-cli": "6.26.0",
