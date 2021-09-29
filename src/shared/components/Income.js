@@ -55,7 +55,7 @@ export default class Income extends Component {
               label='Date received'
               value={this.state.incomeForm['date']}
               onChange={e => this.onChange(e)} />
-            <Button theme='primary' onClick={this.handleSubmit} style={{ fontSize: 14, margin: 12, background: 'gray', borderColor: 'darkgray' }}>Add income</Button>
+            <Button theme='primary' onClick={this.handleSubmit} style={{ fontSize: 14, margin: 12, background: 'gray', borderColor: 'darkgray' }}>Add+ income</Button>
           </form>
         </div>
       </div>
